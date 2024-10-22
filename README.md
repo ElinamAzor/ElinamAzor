@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me elinamazorliade@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: The world id round
+- ⚡ Fun fact: The world is round
 
 <!---
 ElinamAzor/ElinamAzor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
